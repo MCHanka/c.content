@@ -1,0 +1,16 @@
+{
+	"header":{
+		"title":"Script",
+		"subtitle":"content test",
+		"logo":"normal"
+	},
+	"head":{
+		"title":"blog page",
+		"descripson":"this is the blog page"
+	},
+	"sidebar":{
+		"sponcoredad":"tab-sponcoredad"
+	},
+	"data":{
+	}
+}
