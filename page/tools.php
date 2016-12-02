@@ -1,6 +1,7 @@
 <style>
-	li:before {
+	.hft li:before {
 		content: '';
+		list-style:decimal;
 	}
 </style>
 <div align="center" class="hft">
