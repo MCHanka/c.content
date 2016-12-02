@@ -1,12 +1,12 @@
 {
 	"header":{
-		"title":"Script",
-		"subtitle":"content test",
-		"logo":"normal"
+		"title":"IGSteven",
+		"subtitle":"/BEEMOVIE Scipt",
+		"logo":"igsteven"
 	},
 	"head":{
-		"title":"blog page",
-		"descripson":"this is the blog page"
+		"title":"bee movie script",
+		"descripson":"the full bee movie script used as a test page"
 	},
 	"sidebar":{
 		"share":"tab-share",
