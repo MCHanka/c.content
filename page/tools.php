@@ -6,12 +6,12 @@
 	}
 
 	li { 
-	    padding-left: 16px; 
+	    padding-left: 5px; 
 	}
 
 	li:before {
-	    content: "•"; /* Insert content that looks like bullets */
-	    padding-right: 8px;
+	    content: ""; /* Insert content that looks like bullets */
+	    padding-right: 0px;
 	    color: blue; /* Or a color you prefer */
 	}
 </style>
