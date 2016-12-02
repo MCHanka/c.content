@@ -1,3 +1,8 @@
+<style>
+	li:before {
+		content: '';
+	}
+</style>
 <div align="center" class="hft">
 	<div>
 		<h1><b>Helpful tools</b></h1>
