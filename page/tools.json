@@ -1,12 +1,12 @@
 {
 	"header":{
 		"title":"IGSteven",
-		"subtitle":"/BEEMOVIE Scipt",
+		"subtitle":"tools for streaming",
 		"logo":"igsteven"
 	},
 	"head":{
-		"title":"bee movie script",
-		"descripson":"the full bee movie script used as a test page"
+		"title":"tools for streaming",
+		"descripson":"a list of highly powerful tools to help get your stream on beam started"
 	},
 	"sidebar":{
 		"share":"tab-share",
