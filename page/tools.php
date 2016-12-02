@@ -1,7 +1,18 @@
 <style>
-	.hft li:before {
-		content: '';
-		list-style:decimal;
+	ul {
+	    list-style: none; /* Remove list bullets */
+	    padding: 0;
+	    margin: 0;
+	}
+
+	li { 
+	    padding-left: 16px; 
+	}
+
+	li:before {
+	    content: "•"; /* Insert content that looks like bullets */
+	    padding-right: 8px;
+	    color: blue; /* Or a color you prefer */
 	}
 </style>
 <div align="center" class="hft">
