@@ -9,6 +9,7 @@
 		"descripson":"this is the blog page"
 	},
 	"sidebar":{
+		"share":"tab-share",
 		"sponcoredad":"tab-sponcoredad"
 	},
 	"data":{
