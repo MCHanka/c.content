@@ -1,8 +1,12 @@
 [
 	{
 	"local":"beemovie",
-	"creator":"igsteven",
 	"json":"bee",
 	"page":"bee"
+	},
+	{
+	"local":"tools",
+	"json":"tools",
+	"page":"tools"
 	}
 ]
