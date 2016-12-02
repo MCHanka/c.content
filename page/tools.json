@@ -1,0 +1,17 @@
+{
+	"header":{
+		"title":"IGSteven",
+		"subtitle":"/BEEMOVIE Scipt",
+		"logo":"igsteven"
+	},
+	"head":{
+		"title":"bee movie script",
+		"descripson":"the full bee movie script used as a test page"
+	},
+	"sidebar":{
+		"share":"tab-share",
+		"sponcoredad":"tab-sponcoredad"
+	},
+	"data":{
+	}
+}
