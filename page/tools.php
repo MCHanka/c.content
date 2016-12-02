@@ -64,15 +64,6 @@
 		<h3>Beam Bots</h3>
 		<ul>
 			<li>
-				<h2>ScottyBot</h2>
-				<p>
-					Scottybot is Beam.Pro's premier chat bot, offering an extensive list of features, many of which are not seen elsewhere. It hosts the typical features.
-				</p>
-				<a href="http://badatgaming.com/go.php?url=scottybot.net">
-				GET Scottybot
-				</a>
-			</li>
-			<li>
 				<h2>BlipBot</h2>
 				<p>
 					Blipbot is a bot for beam thats has Points system , Custom commands , Raffles and giveaways , Warning system by the guys from Streamjar 
