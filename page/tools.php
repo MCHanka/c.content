@@ -1,15 +1,15 @@
 <style>
-	ul {
+	hft ul {
 	    list-style: none; /* Remove list bullets */
 	    padding: 0;
 	    margin: 0;
 	}
 
-	li { 
+	hft li { 
 	    padding-left: 5px; 
 	}
 
-	li:before {
+	hft li:before {
 	    content: ""; /* Insert content that looks like bullets */
 	    padding-right: 0px;
 	    color: blue; /* Or a color you prefer */
