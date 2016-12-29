@@ -1,7 +1,7 @@
 <div>
 	<h1>
 		<b>
-			Helpful tools
+			Helpful shitty tools for streamers
 		</b>
 	</h1>
 	<h2>
