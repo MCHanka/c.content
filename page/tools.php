@@ -1,11 +1,11 @@
 <div>
 	<h1>
 		<b>
-			Helpful shitty tools for streamers
+			Helpful tools for streamers
 		</b>
 	</h1>
 	<h2>
-		everthing to help you get started streaming on beam
+		everything to help you get started streaming on Beam
 	</h2>
 	<hr />
 	<br>
